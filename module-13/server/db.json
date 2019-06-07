@@ -1,0 +1,16 @@
+{
+  "notes": [
+    {
+      "id": "QMom9q4Ku",
+      "title": "Get comfy with Frontend frameworks",
+      "body": "First must get some general knowledge about frameworks, then maybe try each one for a week or so. Need to choose between React, Vue and Angular, by reading articles and watching videos.",
+      "priority": 1
+    },
+    {
+      "title": "adaD",
+      "body": "DA",
+      "priority": 0,
+      "id": "VgxzZvx"
+    }
+  ]
+}
